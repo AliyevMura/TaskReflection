@@ -1,0 +1,15 @@
+C:\Users\lenovo\source\repos\TaskReflection\TaskReflection\bin\Debug\net6.0\TaskReflection.exe
+C:\Users\lenovo\source\repos\TaskReflection\TaskReflection\bin\Debug\net6.0\TaskReflection.deps.json
+C:\Users\lenovo\source\repos\TaskReflection\TaskReflection\bin\Debug\net6.0\TaskReflection.runtimeconfig.json
+C:\Users\lenovo\source\repos\TaskReflection\TaskReflection\bin\Debug\net6.0\TaskReflection.dll
+C:\Users\lenovo\source\repos\TaskReflection\TaskReflection\bin\Debug\net6.0\TaskReflection.pdb
+C:\Users\lenovo\source\repos\TaskReflection\TaskReflection\obj\Debug\net6.0\TaskReflection.csproj.AssemblyReference.cache
+C:\Users\lenovo\source\repos\TaskReflection\TaskReflection\obj\Debug\net6.0\TaskReflection.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lenovo\source\repos\TaskReflection\TaskReflection\obj\Debug\net6.0\TaskReflection.AssemblyInfoInputs.cache
+C:\Users\lenovo\source\repos\TaskReflection\TaskReflection\obj\Debug\net6.0\TaskReflection.AssemblyInfo.cs
+C:\Users\lenovo\source\repos\TaskReflection\TaskReflection\obj\Debug\net6.0\TaskReflection.csproj.CoreCompileInputs.cache
+C:\Users\lenovo\source\repos\TaskReflection\TaskReflection\obj\Debug\net6.0\TaskReflection.dll
+C:\Users\lenovo\source\repos\TaskReflection\TaskReflection\obj\Debug\net6.0\refint\TaskReflection.dll
+C:\Users\lenovo\source\repos\TaskReflection\TaskReflection\obj\Debug\net6.0\TaskReflection.pdb
+C:\Users\lenovo\source\repos\TaskReflection\TaskReflection\obj\Debug\net6.0\TaskReflection.genruntimeconfig.cache
+C:\Users\lenovo\source\repos\TaskReflection\TaskReflection\obj\Debug\net6.0\ref\TaskReflection.dll
